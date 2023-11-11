@@ -1,0 +1,11 @@
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\bin\Debug\net5.0\LunaSoft.CommonObjects.deps.json
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\bin\Debug\net5.0\LunaSoft.CommonObjects.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\bin\Debug\net5.0\LunaSoft.CommonObjects.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\LunaSoft.CommonObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\LunaSoft.CommonObjects.AssemblyInfoInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\LunaSoft.CommonObjects.AssemblyInfo.cs
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\LunaSoft.CommonObjects.csproj.CoreCompileInputs.cache
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\LunaSoft.CommonObjects.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\refint\LunaSoft.CommonObjects.dll
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\LunaSoft.CommonObjects.pdb
+E:\Users\Zach Sørensen\Documents\dev\Projects\preivew0.2024.0.4\LunaSoft.CommonObjects\obj\Debug\net5.0\ref\LunaSoft.CommonObjects.dll
